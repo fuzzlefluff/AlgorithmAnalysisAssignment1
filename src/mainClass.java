@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 // Course: CS4306
 //Student name: Matthew Prindle
-//Student ID: 000-775-6858
+//Student ID: xxx_xxx_xxx
 //Assignment #:1 #1
 //Due Date: 1/24/2017
 //Signature: mattP
